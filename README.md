@@ -1,5 +1,7 @@
 # CognitiveSamples
-Sample Images for Cognitive Training
+Sample Images for Cognitive Vision Training
+
+Use these images for learning how to train custom Vision (AI) Models / Vision Neural Networks.
 
 A collection of cigarette butts used for a hypothetical waste collecting / counting system.
 
